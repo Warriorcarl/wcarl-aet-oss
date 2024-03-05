@@ -37,7 +37,7 @@
   "main": "remix.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Warriorcarl/wcarl-aet-oss.git"
+    "url": "https://github.com/Warriorcarl/wcarl-aet-oss.git"
   },
   "keywords": [
     "wcarl",
