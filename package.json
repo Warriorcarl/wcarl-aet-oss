@@ -32,7 +32,7 @@
     "node": ">=18.0.0"
   },
   "name": "wcarl-aet-oss",
-  "version": "2024.1.3",
+  "version": "2024.3.5",
   "description": "wcarl aet oss",
   "main": "remix.config.js",
   "repository": {
